@@ -4,6 +4,3 @@ A passionate Software Engineering student on a mission to make technology more i
 - 📫 How to reach me mewael404@gmail.com
 - ❤️ I'm passionate about building backend APIs and contributing to open-source.
 
-  Let's connect...
-  mewael_rezene mewael-rezene-5a472535a
-
