@@ -5,6 +5,5 @@ A passionate Software Engineering student on a mission to make technology more i
 - ❤️ I'm passionate about building backend APIs and contributing to open-source.
 
   Let's connect...
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/mewael-rezene-5a472535a)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/mewael_rezene)
+  mewael_rezene mewael-rezene-5a472535a
 
